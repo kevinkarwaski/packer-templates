@@ -1,0 +1,5 @@
+# Custom keys and variables.
+variables.json
+*.pem
+*.key
+*.cert
